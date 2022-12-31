@@ -1,3 +1,5 @@
 # discord-self-nuker
-```diff\n
-discord hesabı ile toplu veya istediğiniz kanalı rolü silebilen discord sunucularına spam mesajı atabilen + olarak toplu dm mesaj atarak reklam yapabiliceğiniz bir self bot```
+```fix\n
+Discord Hesabı ile toplu veya istediğiniz kanalı rolü silebilen 
+Discord sunucularına spam mesajı atabilen 
+Toplu dm mesajı atan bir self bot
